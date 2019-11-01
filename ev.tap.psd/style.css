@@ -1,0 +1,42 @@
+body { 
+    background-image: url("fon.jpg");
+
+  background-repeat: no-repeat;
+}
+.container{
+  max-width: 440;
+  margin: auto;
+}
+#umumi {
+  width: 440;
+  height: 500;
+  margin: auto;
+  
+}
+#ilk {
+  background-color:lightblue;
+  border-radius: 4px;
+}
+#ilk h3{
+  padding: 40px 40px;
+font-size: 24px;
+line-height: 28px;
+color: #4f4f4f;
+font-family: "Proxima Nova";
+font-weight: bold;
+}
+#ilk label{font-size: 14px;
+  letter-spacing: 2px;
+  line-height: 28px;
+  color: #4f4f4f;
+  font-family: "Proxima Nova";
+  font-weight: bold;
+
+}
+#ilk input{
+  width: 100%;
+  font-size: 18px;
+color: #555555;
+font-family: "Proxima Nova";
+font-weight: 300;
+}
